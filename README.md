@@ -1,2 +1,2 @@
 # FortniteHeightmaps
-Archieving Fortnite Heghtmaps for use in UE and UEFN
+Archieving Fortnite Heightmaps for use in UE and UEFN
