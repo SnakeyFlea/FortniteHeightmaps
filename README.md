@@ -177,7 +177,7 @@ Here are the versions I'm currently working on or have already completed:
 
 ## Chapter 2
 
-### Season 1
+### Season 11
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
@@ -188,7 +188,7 @@ Here are the versions I'm currently working on or have already completed:
 | 11.31   | :x:               | :x:     |
 | 11.40   | :x:               | :x:     |
 
-### Season 2
+### Season 12
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
@@ -203,7 +203,7 @@ Here are the versions I'm currently working on or have already completed:
 | 12.60   | :x:               | :x:     |
 | 12.61   | :x:               | :x:     |
 
-### Season 3
+### Season 13
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
@@ -213,7 +213,7 @@ Here are the versions I'm currently working on or have already completed:
 | 13.30   | :x:               | :x:     |
 | 13.40   | :x:               | :x:     |
 
-### Season 4
+### Season 14
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
@@ -225,7 +225,7 @@ Here are the versions I'm currently working on or have already completed:
 | 14.50   | :x:               | :x:     |
 | 14.60   | :x:               | :x:     |
 
-### Season 5
+### Season 15
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
@@ -237,7 +237,7 @@ Here are the versions I'm currently working on or have already completed:
 | 15.40   | :x:               | :x:     |
 | 15.50   | :x:               | :x:     |
 
-### Season 6
+### Season 16
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
@@ -248,7 +248,7 @@ Here are the versions I'm currently working on or have already completed:
 | 16.40   | :x:               | :x:     |
 | 16.50   | :x:               | :x:     |
 
-### Season 7
+### Season 17
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
@@ -259,7 +259,7 @@ Here are the versions I'm currently working on or have already completed:
 | 17.40   | :x:               | :x:     |
 | 17.50   | :x:               | :x:     |
 
-### Season 8
+### Season 18
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
@@ -272,7 +272,7 @@ Here are the versions I'm currently working on or have already completed:
 
 ## Chapter 3
 
-### Season 1
+### Season 19
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
@@ -283,7 +283,7 @@ Here are the versions I'm currently working on or have already completed:
 | 19.30   | :x:               | :x:     |
 | 19.40   | :x:               | :x:     |
 
-### Season 2
+### Season 20
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
@@ -293,7 +293,7 @@ Here are the versions I'm currently working on or have already completed:
 | 20.30   | :x:               | :x:     |
 | 20.40   | :x:               | :x:     |
 
-### Season 3
+### Season 21
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
@@ -305,7 +305,7 @@ Here are the versions I'm currently working on or have already completed:
 | 21.50   | :x:               | :x:     |
 | 21.51   | :x:               | :x:     |
 
-### Season 4
+### Season 22
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
@@ -317,7 +317,7 @@ Here are the versions I'm currently working on or have already completed:
 
 ## Chapter 4
 
-### Season 1
+### Season 23
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
@@ -327,7 +327,7 @@ Here are the versions I'm currently working on or have already completed:
 | 23.40   | :x:               | :x:     |
 | 23.50   | :x:               | :x:     |
 
-### Season 2
+### Season 24
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
@@ -338,7 +338,7 @@ Here are the versions I'm currently working on or have already completed:
 | 24.40   | :x:               | :x:     |
 | 24.50   | :x:               | :x:     |
 
-### Season 3
+### Season 25
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
@@ -348,7 +348,7 @@ Here are the versions I'm currently working on or have already completed:
 | 25.20   | :x:               | :x:     |
 | 25.30   | :x:               | :x:     |
 
-### Season 4
+### Season 26
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
@@ -367,7 +367,7 @@ Here are the versions I'm currently working on or have already completed:
 
 ## Chapter 5
 
-### Season 1
+### Season 282
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
@@ -377,7 +377,7 @@ Here are the versions I'm currently working on or have already completed:
 | 28.20   | :x:               | :x:     |
 | 28.30   | :x:               | :x:     |
 
-### Season 2
+### Season 29
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
@@ -388,7 +388,7 @@ Here are the versions I'm currently working on or have already completed:
 | 29.30   | :x:               | :x:     |
 | 29.40   | :x:               | :x:     |
 
-### Season 3
+### Season 30
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
@@ -398,7 +398,7 @@ Here are the versions I'm currently working on or have already completed:
 | 30.30   | :x:               | :x:     |
 | 30.40   | :x:               | :x:     |
 
-### Season 4
+### Season 31
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
