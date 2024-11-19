@@ -2,13 +2,13 @@
 
 Welcome to SnakeyFlea's Fortnite heightmap archive!
 
-### 🌟 Support Me on Patreon! 🌟
+### ⭐ Support Me on Patreon! ⭐
 
-If you enjoy these heightmaps and want to support me, consider becoming a patron! 🙌
+If you enjoy these heightmaps and want to support me, consider becoming a patron! 🙏
 
-👉 [Become a Patron!](https://www.patreon.com/snakeyflea)
+➡ [Become a Patron!](https://www.patreon.com/snakeyflea)
 
-Thank you for your support! 💖
+Thank you for your support! ❤
 
 ### Available Versions
 
@@ -29,6 +29,8 @@ Here are the versions I'm currently working on or have already completed:
 | X     | -153000.0  | 0        | 128     |
 | Y     | -153000.0  | 0        | 128     |
 | Z     | 100        | 0        | 100     |
+
+## Chapter 1
 
 ### Season 0 & 1
 
@@ -57,94 +59,94 @@ Here are the versions I'm currently working on or have already completed:
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
-| 3.00    | :x:               | :white_check_mark:|
-| 3.10    | :x:               | :white_check_mark:|
-| 3.1.1   | :x:               | :white_check_mark:|
-| 3.20    | :x:               | :white_check_mark:|
-| 3.30    | :white_check_mark:| :white_check_mark:|
-| 3.50    | :white_check_mark:| :white_check_mark:|
-| 3.60    | :white_check_mark:| :white_check_mark:|
+| 3.00    | :x:               | :x:     |
+| 3.10    | :x:               | :x:     |
+| 3.1.1   | :x:               | :x:     |
+| 3.20    | :x:               | :x:     |
+| 3.30    | :x:               | :x:     |
+| 3.50    | :x:               | :x:     |
+| 3.60    | :x:               | :x:     |
 
 ### Season 4
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
-| 4.00    | :white_check_mark:| :white_check_mark:|
-| 4.10    | :white_check_mark:| :white_check_mark:|
-| 4.20    | :white_check_mark:| :white_check_mark:|
-| 4.40    | :white_check_mark:| :white_check_mark:|
+| 4.00    | :x:               | :x:     |
+| 4.10    | :x:               | :x:     |
+| 4.20    | :x:               | :x:     |
+| 4.40    | :x:               | :x:     |
 | 4.4.1   | :x:               | :x:     |
-| 4.50    | :white_check_mark:| :white_check_mark:|
+| 4.50    | :x:               | :x:     |
 
 ### Season 5
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
-| 5.00    | :white_check_mark:| :white_check_mark:|
-| 5.10    | :white_check_mark:| :white_check_mark:|
-| 5.21    | :white_check_mark:| :white_check_mark:|
-| 5.30    | :white_check_mark:| :white_check_mark:|
-| 5.40    | :white_check_mark:| :white_check_mark:|
-| 5.41    | :white_check_mark:| :white_check_mark:|
+| 5.00    | :x:               | :x:     |
+| 5.10    | :x:               | :x:     |
+| 5.21    | :x:               | :x:     |
+| 5.30    | :x:               | :x:     |
+| 5.40    | :x:               | :x:     |
+| 5.41    | :x:               | :x:     |
 
 ### Season 6
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
-| 6.00    | :white_check_mark:| :white_check_mark:|
-| 6.01    | :white_check_mark:| :white_check_mark:|
-| 6.02    | :white_check_mark:| :white_check_mark:|
-| 6.10    | :white_check_mark:| :white_check_mark:|
+| 6.00    | :x:               | :x:     |
+| 6.01    | :x:               | :x:     |
+| 6.02    | :x:               | :x:     |
+| 6.10    | :x:               | :x:     |
 | 6.20    | :x:               | :x:     |
-| 6.21    | :white_check_mark:| :white_check_mark:|
-| 6.22    | :white_check_mark:| :white_check_mark:|
-| 6.30    | :white_check_mark:| :white_check_mark:|
-| 6.31    | :white_check_mark:| :white_check_mark:|
+| 6.21    | :x:               | :x:     |
+| 6.22    | :x:               | :x:     |
+| 6.30    | :x:               | :x:     |
+| 6.31    | :x:               | :x:     |
 
 ### Season 7
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
-| 7.00    | :white_check_mark:| :white_check_mark:|
-| 7.10    | :white_check_mark:| :white_check_mark:|
-| 7.20    | :white_check_mark:| :white_check_mark:|
-| 7.30    | :white_check_mark:| :white_check_mark:|
-| 7.40    | :white_check_mark:| :white_check_mark:|
+| 7.00    | :x:               | :x:     |
+| 7.10    | :x:               | :x:     |
+| 7.20    | :x:               | :x:     |
+| 7.30    | :x:               | :x:     |
+| 7.40    | :x:               | :x:     |
 
 ### Season 8
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
-| 8.00    | :white_check_mark:| :x:     |
+| 8.00    | :x:               | :x:     |
 | 8.01    | :x:               | :x:     |
 | 8.10    | :x:               | :x:     |
 | 8.11    | :x:               | :x:     |
-| 8.20    | :white_check_mark:| :white_check_mark:|
-| 8.30    | :white_check_mark:| :white_check_mark:|
-| 8.40    | :white_check_mark:| :white_check_mark:|
-| 8.50    | :white_check_mark:| :white_check_mark:|
-| 8.51    | :white_check_mark:| :white_check_mark:|
+| 8.20    | :x:               | :x:     |
+| 8.30    | :x:               | :x:     |
+| 8.40    | :x:               | :x:     |
+| 8.50    | :x:               | :x:     |
+| 8.51    | :x:               | :x:     |
 
 ### Season 9
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
-| 9.00    | :white_check_mark:| :white_check_mark:|
-| 9.01    | :white_check_mark:| :white_check_mark:|
+| 9.00    | :x:               | :x:     |
+| 9.01    | :x:               | :x:     |
 | 9.10    | :x:               | :x:     |
 | 9.20    | :x:               | :x:     |
 | 9.21    | :x:               | :x:     |
-| 9.30    | :white_check_mark:| :white_check_mark:|
+| 9.30    | :x:               | :x:     |
 | 9.40    | :x:               | :x:     |
-| 9.41    | :white_check_mark:| :white_check_mark:|
+| 9.41    | :x:               | :x:     |
 
 ### Season 10
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
-| 10.00   | :white_check_mark:| :white_check_mark:|
-| 10.10   | :white_check_mark:| :white_check_mark:|
-| 10.20   | :white_check_mark:| :white_check_mark:|
+| 10.00   | :x:               | :x:     |
+| 10.10   | :x:               | :x:     |
+| 10.20   | :x:               | :x:     |
 | 10.30   | :x:               | :x:     |
-| 10.31   | :white_check_mark:| :white_check_mark:|
+| 10.31   | :x:               | :x:     |
 | 10.40   | :x:               | :x:     |
