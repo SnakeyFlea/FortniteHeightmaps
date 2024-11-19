@@ -14,7 +14,7 @@ Thank you for your support! ❤
 
 Here are the versions I'm currently working on or have already completed:
 
-### Settings: Athena_Terrain
+### Settings: Athena_Terrain Ch1
 
 | X Y Z | Location   | Rotation | Scale   |
 |-------|------------|----------|---------|
@@ -22,7 +22,7 @@ Here are the versions I'm currently working on or have already completed:
 | Y     | -153000.0  | 0        | 200.7874|
 | Z     | -1692.0    | 0        | 50      |
 
-### Settings: Apollo_Terrain
+### Settings: Apollo_Terrain Ch2
 
 | X Y Z | Location   | Rotation | Scale   |
 |-------|------------|----------|---------|
@@ -30,7 +30,7 @@ Here are the versions I'm currently working on or have already completed:
 | Y     | -153000.0  | 0        | 128     |
 | Z     | 100        | 0        | 100     |
 
-### Settings: Artemis_Terrain
+### Settings: Artemis_Terrain Ch3
 
 | X Y Z | Location   | Rotation | Scale   |
 |-------|------------|----------|---------|
@@ -38,7 +38,7 @@ Here are the versions I'm currently working on or have already completed:
 | Y     | -153000.0  | 0        | 128     |
 | Z     | 0          | 0        | 100     |
 
-### Settings: Asteria_Terrain
+### Settings: Asteria_Terrain Ch4
 
 | X Y Z | Location   | Rotation | Scale   |
 |-------|------------|----------|---------|
@@ -46,7 +46,7 @@ Here are the versions I'm currently working on or have already completed:
 | Y     | -153000.0  | 0        | 128     |
 | Z     | 0          | 0        | 100     |
 
-### Settings: Helios_Terrain
+### Settings: Helios_Terrain Ch5
 
 | X Y Z | Location   | Rotation | Scale   |
 |-------|------------|----------|---------|
