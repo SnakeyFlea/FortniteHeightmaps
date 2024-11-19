@@ -30,6 +30,30 @@ Here are the versions I'm currently working on or have already completed:
 | Y     | -153000.0  | 0        | 128     |
 | Z     | 100        | 0        | 100     |
 
+### Settings: Artemis_Terrain
+
+| X Y Z | Location   | Rotation | Scale   |
+|-------|------------|----------|---------|
+| X     | -153000.0  | 0        | 128     |
+| Y     | -153000.0  | 0        | 128     |
+| Z     | 0          | 0        | 100     |
+
+### Settings: Asteria_Terrain
+
+| X Y Z | Location   | Rotation | Scale   |
+|-------|------------|----------|---------|
+| X     | -153000.0  | 0        | 128     |
+| Y     | -153000.0  | 0        | 128     |
+| Z     | 0          | 0        | 100     |
+
+### Settings: Helios_Terrain
+
+| X Y Z | Location   | Rotation | Scale   |
+|-------|------------|----------|---------|
+| X     | -153000.0  | 0        | 128     |
+| Y     | -153000.0  | 0        | 128     |
+| Z     | 0          | 0        | 100     |
+
 ## Chapter 1
 
 ### Season 0 & 1
