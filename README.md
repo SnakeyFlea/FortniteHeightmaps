@@ -349,7 +349,7 @@ Here are the versions I'm currently working on or have already completed:
 
 ## Chapter 5
 
-### Season 282
+### Season 28
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
