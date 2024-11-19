@@ -56,124 +56,105 @@ Here are the versions I'm currently working on or have already completed:
 
 ## Chapter 1
 
-### Season 0 & 1
-
-| Version | Heightmap         | Minimap |
-|---------|-------------------|---------|
-| 1.7.2   | :x:               | :x:     |
-| 1.80    | :x:               | :x:     |
-| 1.8.1   | :x:               | :x:     |
-| 1.8.2   | :x:               | :x:     |
-| 1.90    | :x:               | :x:     |
-| 1.9.1   | :x:               | :x:     |
-| 1.10    | :x:               | :x:     |
-
-### Season 2
-
-| Version | Heightmap         | Minimap |
-|---------|-------------------|---------|
-| 1.11    | :x:               | :x:     |
-| 2.1.0   | :x:               | :x:     |
-| 2.3.0   | :x:               | :x:     |
-| 2.4.0   | :x:               | :x:     |
-| 2.4.2   | :x:               | :x:     |
-| 2.5.0   | :x:               | :x:     |
-
-### Season 3
-
-| Version | Heightmap         | Minimap |
-|---------|-------------------|---------|
-| 3.00    | :x:               | :x:     |
-| 3.10    | :x:               | :x:     |
-| 3.1.1   | :x:               | :x:     |
-| 3.20    | :x:               | :x:     |
-| 3.30    | :x:               | :x:     |
-| 3.50    | :x:               | :x:     |
-| 3.60    | :x:               | :x:     |
-
-### Season 4
-
-| Version | Heightmap         | Minimap |
-|---------|-------------------|---------|
-| 4.00    | :x:               | :x:     |
-| 4.10    | :x:               | :x:     |
-| 4.20    | :x:               | :x:     |
-| 4.40    | :x:               | :x:     |
-| 4.4.1   | :x:               | :x:     |
-| 4.50    | :x:               | :x:     |
-
-### Season 5
-
-| Version | Heightmap         | Minimap |
-|---------|-------------------|---------|
-| 5.00    | :x:               | :x:     |
-| 5.10    | :x:               | :x:     |
-| 5.21    | :x:               | :x:     |
-| 5.30    | :x:               | :x:     |
-| 5.40    | :x:               | :x:     |
-| 5.41    | :x:               | :x:     |
-
-### Season 6
-
-| Version | Heightmap         | Minimap |
-|---------|-------------------|---------|
-| 6.00    | :x:               | :x:     |
-| 6.01    | :x:               | :x:     |
-| 6.02    | :x:               | :x:     |
-| 6.10    | :x:               | :x:     |
-| 6.20    | :x:               | :x:     |
-| 6.21    | :x:               | :x:     |
-| 6.22    | :x:               | :x:     |
-| 6.30    | :x:               | :x:     |
-| 6.31    | :x:               | :x:     |
-
-### Season 7
-
-| Version | Heightmap         | Minimap |
-|---------|-------------------|---------|
-| 7.00    | :x:               | :x:     |
-| 7.10    | :x:               | :x:     |
-| 7.20    | :x:               | :x:     |
-| 7.30    | :x:               | :x:     |
-| 7.40    | :x:               | :x:     |
-
-### Season 8
-
-| Version | Heightmap         | Minimap |
-|---------|-------------------|---------|
-| 8.00    | :x:               | :x:     |
-| 8.01    | :x:               | :x:     |
-| 8.10    | :x:               | :x:     |
-| 8.11    | :x:               | :x:     |
-| 8.20    | :x:               | :x:     |
-| 8.30    | :x:               | :x:     |
-| 8.40    | :x:               | :x:     |
-| 8.50    | :x:               | :x:     |
-| 8.51    | :x:               | :x:     |
-
-### Season 9
-
-| Version | Heightmap         | Minimap |
-|---------|-------------------|---------|
-| 9.00    | :x:               | :x:     |
-| 9.01    | :x:               | :x:     |
-| 9.10    | :x:               | :x:     |
-| 9.20    | :x:               | :x:     |
-| 9.21    | :x:               | :x:     |
-| 9.30    | :x:               | :x:     |
-| 9.40    | :x:               | :x:     |
-| 9.41    | :x:               | :x:     |
-
-### Season 10
-
-| Version | Heightmap         | Minimap |
-|---------|-------------------|---------|
-| 10.00   | :x:               | :x:     |
-| 10.10   | :x:               | :x:     |
-| 10.20   | :x:               | :x:     |
-| 10.30   | :x:               | :x:     |
-| 10.31   | :x:               | :x:     |
-| 10.40   | :x:               | :x:     |
+# Season 0 & 1
+| Version   | Heightmap          | Minimap   |
+| -------   | ------------------ | -------   |
+| 1.7.2     | :x:                | :x:       |
+| 1.80      | :x:                | :x:       |
+| 1.8.1     | :x:                | :x:       |
+| 1.8.2     | :x:                | :x:       |
+| 1.90      | :x:                | :x:       |
+| 1.9.1     | :x:                | :x:       |
+| 1.10      | :white_check_mark: | :white_check_mark:|
+# Season 2
+| Version   | Heightmap          | Minimap   |
+| -------   | ------------------ |-------    |
+| 1.11      | :x:                | :x:       |
+| 2.1.0     | :x:                | :x:       |
+| 2.3.0     | :x:                | :x:       |
+| 2.4.0     | :x:                | :x:       |
+| 2.4.2     | :white_check_mark: | :white_check_mark:|
+| 2.5.0     | :white_check_mark: | :white_check_mark:|
+# Season 3
+| Version   | Heightmap          | Minimap   |
+| -------   | ------------------ |-------    |
+| 3.00      | :white_check_mark: | :white_check_mark:|
+| 3.10      | :white_check_mark: | :white_check_mark:|
+| 3.1.1     | :white_check_mark: | :white_check_mark:|
+| 3.20      | :white_check_mark: | :white_check_mark:|
+| 3.30      | :white_check_mark: | :white_check_mark:|
+| 3.50      | :white_check_mark: | :white_check_mark:|
+| 3.60      | :white_check_mark: | :white_check_mark:|
+# Season 4
+| Version   | Heightmap          | Minimap   |
+| -------   | ------------------ |-------    |
+| 4.00      | :white_check_mark: | :white_check_mark:|
+| 4.10      | :white_check_mark: | :white_check_mark:|
+| 4.20      | :white_check_mark: | :white_check_mark:|
+| 4.40      | :white_check_mark: | :white_check_mark:|
+| 4.4.1     | :x:                | :x:       | |
+| 4.50      | :white_check_mark: | :white_check_mark:|
+# Season 5
+| Version   | Heightmap          | Minimap   |
+| -------   | ------------------ |-------    |
+| 5.00      | :white_check_mark: | :white_check_mark:|
+| 5.10      | :white_check_mark: | :white_check_mark:|
+| 5.21      | :white_check_mark: | :white_check_mark:|
+| 5.30      | :white_check_mark: | :white_check_mark:|
+| 5.40      | :white_check_mark: | :white_check_mark:|
+| 5.41      | :white_check_mark: | :white_check_mark:|
+# Season 6
+| Version   | Heightmap          | Minimap   |
+| -------   | ------------------ |-------    |
+| 6.00      | :white_check_mark: | :white_check_mark:|
+| 6.01      | :white_check_mark: | :white_check_mark:|
+| 6.02      | :white_check_mark: | :white_check_mark:|
+| 6.10      | :white_check_mark: | :white_check_mark:|
+| 6.20      | :x:                | :x:       |
+| 6.21      | :white_check_mark: | :white_check_mark:|
+| 6.22      | :white_check_mark: | :white_check_mark:|
+| 6.30      | :white_check_mark: | :white_check_mark:|
+| 6.31      | :white_check_mark: | :white_check_mark:|
+# Season 7
+| Version   | Heightmap          | Minimap   |
+| -------   | ------------------ |-------    |
+| 7.00      | :white_check_mark: | :white_check_mark:|
+| 7.10      | :white_check_mark: | :white_check_mark:|
+| 7.20      | :white_check_mark: | :white_check_mark:|
+| 7.30      | :white_check_mark: | :white_check_mark:|
+| 7.40      | :white_check_mark: | :white_check_mark:|
+# Season 8
+| Version   | Heightmap          | Minimap   |
+| -------   | ------------------ |-------    |
+| 8.00      | :white_check_mark: | :x:       |
+| 8.01      | :x:                | :x:       |
+| 8.10      | :x:                | :x:       |
+| 8.11      | :x:                | :x:       |
+| 8.20      | :white_check_mark: | :white_check_mark:|
+| 8.30      | :white_check_mark: | :white_check_mark:|
+| 8.40      | :white_check_mark: | :white_check_mark:|
+| 8.50      | :white_check_mark: | :white_check_mark:|
+| 8.51      | :white_check_mark: | :white_check_mark:|
+# Season 9
+| Version   | Heightmap          | Minimap   |
+| -------   | ------------------ |-------    |
+| 9.00      | :white_check_mark: | :white_check_mark:|
+| 9.01      | :white_check_mark: | :white_check_mark:|
+| 9.10      | :x:                | :x:       |
+| 9.20      | :x:                | :x:       |
+| 9.21      | :x:                | :x:       |
+| 9.30      | :white_check_mark: | :white_check_mark:|
+| 9.40      | :x:                | :x:       |
+| 9.41      | :white_check_mark: | :white_check_mark:|
+# Season 10
+| Version   | Heightmap          | Minimap   |
+| -------   | ------------------ |-------    |
+| 10.00     | :white_check_mark: | :white_check_mark:|
+| 10.10     | :white_check_mark: | :white_check_mark:|
+| 10.20     | :white_check_mark: | :white_check_mark:|
+| 10.30     | :x:                | :x:       |
+| 10.31     | :white_check_mark: | :white_check_mark:|
+| 10.40     | :x:                | :x:       |
 
 ## Chapter 2
 
@@ -185,7 +166,7 @@ Here are the versions I'm currently working on or have already completed:
 | 11.10   | :x:               | :x:     |
 | 11.20   | :x:               | :x:     |
 | 11.30   | :x:               | :x:     |
-| 11.31   | :x:               | :x:     |
+| 11.31   | :white_check_mark:| :x:     |
 | 11.40   | :x:               | :x:     |
 
 ### Season 12
@@ -198,7 +179,7 @@ Here are the versions I'm currently working on or have already completed:
 | 12.21   | :x:               | :x:     |
 | 12.30   | :x:               | :x:     |
 | 12.40   | :x:               | :x:     |
-| 12.41   | :x:               | :x:     |
+| 12.41   | :white_check_mark:| :x:     |
 | 12.50   | :x:               | :x:     |
 | 12.60   | :x:               | :x:     |
 | 12.61   | :x:               | :x:     |
@@ -223,7 +204,7 @@ Here are the versions I'm currently working on or have already completed:
 | 14.30   | :x:               | :x:     |
 | 14.40   | :x:               | :x:     |
 | 14.50   | :x:               | :x:     |
-| 14.60   | :x:               | :x:     |
+| 14.60   | :white_check_mark:| :x:     |
 
 ### Season 15
 
@@ -233,7 +214,7 @@ Here are the versions I'm currently working on or have already completed:
 | 15.10   | :x:               | :x:     |
 | 15.20   | :x:               | :x:     |
 | 15.21   | :x:               | :x:     |
-| 15.30   | :x:               | :x:     |
+| 15.30   | :white_check_mark:| :x:     |
 | 15.40   | :x:               | :x:     |
 | 15.50   | :x:               | :x:     |
 
@@ -245,7 +226,7 @@ Here are the versions I'm currently working on or have already completed:
 | 16.10   | :x:               | :x:     |
 | 16.20   | :x:               | :x:     |
 | 16.30   | :x:               | :x:     |
-| 16.40   | :x:               | :x:     |
+| 16.40   | :white_check_mark:| :x:     |
 | 16.50   | :x:               | :x:     |
 
 ### Season 17
@@ -257,7 +238,7 @@ Here are the versions I'm currently working on or have already completed:
 | 17.20   | :x:               | :x:     |
 | 17.30   | :x:               | :x:     |
 | 17.40   | :x:               | :x:     |
-| 17.50   | :x:               | :x:     |
+| 17.50   | :white_check_mark:| :x:     |
 
 ### Season 18
 
@@ -268,7 +249,7 @@ Here are the versions I'm currently working on or have already completed:
 | 18.20   | :x:               | :x:     |
 | 18.21   | :x:               | :x:     |
 | 18.30   | :x:               | :x:     |
-| 18.40   | :x:               | :x:     |
+| 18.40   | :white_check_mark:| :x:     |
 
 ## Chapter 3
 
@@ -279,7 +260,7 @@ Here are the versions I'm currently working on or have already completed:
 | 19.00   | :x:               | :x:     |
 | 19.01   | :x:               | :x:     |
 | 19.10   | :x:               | :x:     |
-| 19.20   | :x:               | :x:     |
+| 19.20   | :white_check_mark:| :x:     |
 | 19.30   | :x:               | :x:     |
 | 19.40   | :x:               | :x:     |
 
@@ -291,7 +272,7 @@ Here are the versions I'm currently working on or have already completed:
 | 20.10   | :x:               | :x:     |
 | 20.20   | :x:               | :x:     |
 | 20.30   | :x:               | :x:     |
-| 20.40   | :x:               | :x:     |
+| 20.40   | :white_check_mark:| :x:     |
 
 ### Season 21
 
@@ -321,6 +302,7 @@ Here are the versions I'm currently working on or have already completed:
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
+| 23.00   | :white_check_mark:| :x:     |
 | 23.10   | :x:               | :x:     |
 | 23.20   | :x:               | :x:     |
 | 23.30   | :x:               | :x:     |
@@ -333,7 +315,7 @@ Here are the versions I'm currently working on or have already completed:
 |---------|-------------------|---------|
 | 24.01   | :x:               | :x:     |
 | 24.10   | :x:               | :x:     |
-| 24.20   | :x:               | :x:     |
+| 24.20   | :white_check_mark:| :x:     |
 | 24.30   | :x:               | :x:     |
 | 24.40   | :x:               | :x:     |
 | 24.50   | :x:               | :x:     |
@@ -344,7 +326,7 @@ Here are the versions I'm currently working on or have already completed:
 |---------|-------------------|---------|
 | 25.00   | :x:               | :x:     |
 | 25.10   | :x:               | :x:     |
-| 25.11   | :x:               | :x:     |
+| 25.11   | :white_check_mark:| :x:     |
 | 25.20   | :x:               | :x:     |
 | 25.30   | :x:               | :x:     |
 
@@ -354,7 +336,7 @@ Here are the versions I'm currently working on or have already completed:
 |---------|-------------------|---------|
 | 26.00   | :x:               | :x:     |
 | 26.10   | :x:               | :x:     |
-| 26.20   | :x:               | :x:     |
+| 26.20   | :white_check_mark:| :x:     |
 | 26.30   | :x:               | :x:     |
 
 ### Season OG
@@ -363,7 +345,7 @@ Here are the versions I'm currently working on or have already completed:
 |---------|-------------------|---------|
 | 27.00   | :x:               | :x:     |
 | 27.10   | :x:               | :x:     |
-| 27.11   | :x:               | :x:     |
+| 27.11   | :white_check_mark:| :x:     |
 
 ## Chapter 5
 
@@ -386,7 +368,7 @@ Here are the versions I'm currently working on or have already completed:
 | 29.10   | :x:               | :x:     |
 | 29.20   | :x:               | :x:     |
 | 29.30   | :x:               | :x:     |
-| 29.40   | :x:               | :x:     |
+| 29.40   | :white_check_mark:| :x:     |
 
 ### Season 30
 
@@ -394,7 +376,7 @@ Here are the versions I'm currently working on or have already completed:
 |---------|-------------------|---------|
 | 30.00   | :x:               | :x:     |
 | 30.10   | :x:               | :x:     |
-| 30.20   | :x:               | :x:     |
+| 30.20   | :white_check_mark:| :x:     |
 | 30.30   | :x:               | :x:     |
 | 30.40   | :x:               | :x:     |
 
@@ -402,6 +384,7 @@ Here are the versions I'm currently working on or have already completed:
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
+| 31.00   | :white_check_mark:| :x:     |
 | 31.10   | :x:               | :x:     |
 | 31.20   | :x:               | :x:     |
 | 31.30   | :x:               | :x:     |
@@ -413,5 +396,5 @@ Here are the versions I'm currently working on or have already completed:
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
 | 32.00   | :x:               | :x:     |
-| 32.10   | :x:               | :x:     |
+| 32.10   | :white_check_mark:| :white_check_mark:|
 | 32.11   | :x:               | :x:     |
