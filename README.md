@@ -166,7 +166,7 @@ Here are the versions I'm currently working on or have already completed:
 | 11.10   | :x:               | :x:     |
 | 11.20   | :x:               | :x:     |
 | 11.30   | :x:               | :x:     |
-| 11.31   | :white_check_mark:| :x:     |
+| 11.31   | :white_check_mark:| :white_check_mark:|
 | 11.40   | :x:               | :x:     |
 
 ### Season 12
@@ -179,7 +179,7 @@ Here are the versions I'm currently working on or have already completed:
 | 12.21   | :x:               | :x:     |
 | 12.30   | :x:               | :x:     |
 | 12.40   | :x:               | :x:     |
-| 12.41   | :white_check_mark:| :x:     |
+| 12.41   | :white_check_mark:| :white_check_mark:|
 | 12.50   | :x:               | :x:     |
 | 12.60   | :x:               | :x:     |
 | 12.61   | :x:               | :x:     |
@@ -204,7 +204,7 @@ Here are the versions I'm currently working on or have already completed:
 | 14.30   | :x:               | :x:     |
 | 14.40   | :x:               | :x:     |
 | 14.50   | :x:               | :x:     |
-| 14.60   | :white_check_mark:| :x:     |
+| 14.60   | :white_check_mark:| :white_check_mark:|
 
 ### Season 15
 
@@ -214,7 +214,7 @@ Here are the versions I'm currently working on or have already completed:
 | 15.10   | :x:               | :x:     |
 | 15.20   | :x:               | :x:     |
 | 15.21   | :x:               | :x:     |
-| 15.30   | :white_check_mark:| :x:     |
+| 15.30   | :white_check_mark:| :white_check_mark:|
 | 15.40   | :x:               | :x:     |
 | 15.50   | :x:               | :x:     |
 
@@ -226,7 +226,7 @@ Here are the versions I'm currently working on or have already completed:
 | 16.10   | :x:               | :x:     |
 | 16.20   | :x:               | :x:     |
 | 16.30   | :x:               | :x:     |
-| 16.40   | :white_check_mark:| :x:     |
+| 16.40   | :white_check_mark:| :white_check_mark:|
 | 16.50   | :x:               | :x:     |
 
 ### Season 17
@@ -238,7 +238,7 @@ Here are the versions I'm currently working on or have already completed:
 | 17.20   | :x:               | :x:     |
 | 17.30   | :x:               | :x:     |
 | 17.40   | :x:               | :x:     |
-| 17.50   | :white_check_mark:| :x:     |
+| 17.50   | :white_check_mark:| :white_check_mark:|
 
 ### Season 18
 
@@ -249,7 +249,7 @@ Here are the versions I'm currently working on or have already completed:
 | 18.20   | :x:               | :x:     |
 | 18.21   | :x:               | :x:     |
 | 18.30   | :x:               | :x:     |
-| 18.40   | :white_check_mark:| :x:     |
+| 18.40   | :white_check_mark:| :white_check_mark:|
 
 ## Chapter 3
 
@@ -260,7 +260,7 @@ Here are the versions I'm currently working on or have already completed:
 | 19.00   | :x:               | :x:     |
 | 19.01   | :x:               | :x:     |
 | 19.10   | :x:               | :x:     |
-| 19.20   | :white_check_mark:| :x:     |
+| 19.20   | :white_check_mark:| :white_check_mark:|
 | 19.30   | :x:               | :x:     |
 | 19.40   | :x:               | :x:     |
 
@@ -272,7 +272,7 @@ Here are the versions I'm currently working on or have already completed:
 | 20.10   | :x:               | :x:     |
 | 20.20   | :x:               | :x:     |
 | 20.30   | :x:               | :x:     |
-| 20.40   | :white_check_mark:| :x:     |
+| 20.40   | :white_check_mark:| :white_check_mark:|
 
 ### Season 21
 
@@ -294,7 +294,7 @@ Here are the versions I'm currently working on or have already completed:
 | 22.10   | :x:               | :x:     |
 | 22.20   | :x:               | :x:     |
 | 22.30   | :x:               | :x:     |
-| 22.40   | :x:               | :x:     |
+| 22.40   | :white_check_mark:| :white_check_mark:|
 
 ## Chapter 4
 
@@ -302,7 +302,7 @@ Here are the versions I'm currently working on or have already completed:
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
-| 23.00   | :white_check_mark:| :x:     |
+| 23.00   | :white_check_mark:| :white_check_mark:|
 | 23.10   | :x:               | :x:     |
 | 23.20   | :x:               | :x:     |
 | 23.30   | :x:               | :x:     |
@@ -315,7 +315,7 @@ Here are the versions I'm currently working on or have already completed:
 |---------|-------------------|---------|
 | 24.01   | :x:               | :x:     |
 | 24.10   | :x:               | :x:     |
-| 24.20   | :white_check_mark:| :x:     |
+| 24.20   | :white_check_mark:| :white_check_mark:|
 | 24.30   | :x:               | :x:     |
 | 24.40   | :x:               | :x:     |
 | 24.50   | :x:               | :x:     |
@@ -326,7 +326,7 @@ Here are the versions I'm currently working on or have already completed:
 |---------|-------------------|---------|
 | 25.00   | :x:               | :x:     |
 | 25.10   | :x:               | :x:     |
-| 25.11   | :white_check_mark:| :x:     |
+| 25.11   | :white_check_mark:| :white_check_mark:|
 | 25.20   | :x:               | :x:     |
 | 25.30   | :x:               | :x:     |
 
@@ -336,7 +336,7 @@ Here are the versions I'm currently working on or have already completed:
 |---------|-------------------|---------|
 | 26.00   | :x:               | :x:     |
 | 26.10   | :x:               | :x:     |
-| 26.20   | :white_check_mark:| :x:     |
+| 26.20   | :white_check_mark:| :white_check_mark:|
 | 26.30   | :x:               | :x:     |
 
 ### Season OG
@@ -345,7 +345,7 @@ Here are the versions I'm currently working on or have already completed:
 |---------|-------------------|---------|
 | 27.00   | :x:               | :x:     |
 | 27.10   | :x:               | :x:     |
-| 27.11   | :white_check_mark:| :x:     |
+| 27.11   | :white_check_mark:| :white_check_mark:|
 
 ## Chapter 5
 
@@ -353,7 +353,7 @@ Here are the versions I'm currently working on or have already completed:
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
-| 28.00   | :x:               | :x:     |
+| 28.00   | :white_check_mark:| :white_check_mark:|
 | 28.01   | :x:               | :x:     |
 | 28.10   | :x:               | :x:     |
 | 28.20   | :x:               | :x:     |
@@ -368,7 +368,7 @@ Here are the versions I'm currently working on or have already completed:
 | 29.10   | :x:               | :x:     |
 | 29.20   | :x:               | :x:     |
 | 29.30   | :x:               | :x:     |
-| 29.40   | :white_check_mark:| :x:     |
+| 29.40   | :white_check_mark:| :white_check_mark:|
 
 ### Season 30
 
@@ -376,7 +376,7 @@ Here are the versions I'm currently working on or have already completed:
 |---------|-------------------|---------|
 | 30.00   | :x:               | :x:     |
 | 30.10   | :x:               | :x:     |
-| 30.20   | :white_check_mark:| :x:     |
+| 30.20   | :white_check_mark:| :white_check_mark:|
 | 30.30   | :x:               | :x:     |
 | 30.40   | :x:               | :x:     |
 
@@ -384,7 +384,7 @@ Here are the versions I'm currently working on or have already completed:
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
-| 31.00   | :white_check_mark:| :x:     |
+| 31.00   | :white_check_mark:| :white_check_mark:|
 | 31.10   | :x:               | :x:     |
 | 31.20   | :x:               | :x:     |
 | 31.30   | :x:               | :x:     |
