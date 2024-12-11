@@ -54,6 +54,14 @@ Here are the versions I'm currently working on or have already completed:
 | Y     | -153000.0  | 0        | 128     |
 | Z     | 0          | 0        | 100     |
 
+### Settings: Hermes_Terrain Ch6
+
+| X Y Z | Location   | Rotation | Scale   |
+|-------|------------|----------|---------|
+| X     | -153000.0  | 0        | 128     |
+| Y     | -153000.0  | 0        | 128     |
+| Z     | 0          | 0        | 100     |
+
 ## Chapter 1
 
 # Season 0 & 1
@@ -398,3 +406,12 @@ Here are the versions I'm currently working on or have already completed:
 | 32.00   | :x:               | :x:     |
 | 32.10   | :white_check_mark:| :white_check_mark:|
 | 32.11   | :x:               | :x:     |
+
+## Chapter 6
+
+### Season 33
+
+| Version | Heightmap         | Minimap |
+|---------|-------------------|---------|
+| 33.00   | :x:               | :x:     |
+| 33.10   | :white_check_mark:| :white_check_mark:|
