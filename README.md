@@ -415,3 +415,13 @@ Here are the versions I'm currently working on or have already completed:
 |---------|-------------------|---------|
 | 33.00   | :x:               | :x:     |
 | 33.10   | :white_check_mark:| :white_check_mark:|
+| 33.11   | :x:               | :x:     |
+| 33.20   | :x:               | :x:     |
+
+### Season 34
+
+| Version | Heightmap         | Minimap |
+|---------|-------------------|---------|
+| 34.00   | :white_check_mark:| :white_check_mark:|
+| 34.10   | :x:               | :x:     |
+| 34.20   | :white_check_mark:| :white_check_mark:|
