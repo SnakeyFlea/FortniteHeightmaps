@@ -196,7 +196,7 @@ Here are the versions I'm currently working on or have already completed:
 
 | Version | Heightmap         | Minimap |
 |---------|-------------------|---------|
-| 13.00   | :x:               | :x:     |
+| 13.00   | :white_check_mark:| :x:     |
 | 13.10   | :x:               | :x:     |
 | 13.20   | :x:               | :x:     |
 | 13.30   | :x:               | :x:     |
